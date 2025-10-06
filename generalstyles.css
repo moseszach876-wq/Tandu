@@ -1,0 +1,54 @@
+*{
+  font-family: Verdana, Geneva, Tahoma, sans-serif; 
+}
+
+body{
+   background-color: chartreuse;
+   width :70%;
+   margin:auto;
+}
+.main-headings{
+    background-color:green;
+    color: white;
+    text-align: center;
+}
+.main-image{
+    width: 300px;
+    height: 300px;
+}
+
+.text-section{
+   width: 45%;
+   float: left;
+   margin-right: 5px;
+   margin-left: 5px;
+
+}
+.image-section{
+   width: 45%;
+   float: left;
+   margin-left: 15px;
+
+}
+
+nav>ul>li{
+    list-style-type: none;
+    display: inline;
+}
+
+nav>ul>li>a{
+    text-decoration: none;
+    color: white;
+    background-color: green;
+    padding: 10px;
+}
+nav>ul>li>a:hover{
+   background-color: yellow;
+   color: darkgreen;
+}
+
+.selected-item{
+   background-color: yellow;
+   color: darkgreen;
+}
+

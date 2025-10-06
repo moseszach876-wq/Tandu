@@ -1,0 +1,27 @@
+*{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+background-color: chartreuse;
+width: 70%;
+}
+.main-headings{
+    background-color: green;
+    width: 70%;
+    text-align: center;
+}
+
+.main-image{
+    width: 400px;
+    height: 400px;
+}
+.text-section{
+    width: 45%;
+    float: left;
+}
+.image-section{
+    width: 45%;
+    float: left;
+    margin: ;
+}
